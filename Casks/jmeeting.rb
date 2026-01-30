@@ -8,7 +8,7 @@ cask "jmeeting" do
   desc "AI-powered meeting recorder"
   homepage "https://github.com/jermad14/jmeeting"
 
-  auto_updates true
+
   depends_on arch: :arm64
   app "jmeeting.app"
 
