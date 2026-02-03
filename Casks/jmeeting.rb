@@ -1,6 +1,6 @@
 cask "jmeeting" do
-  version "0.1.17"
-  sha256 "97ff4ea4772f354ae470db6c8606eb35f6ff93bef2e1336959c1531ec9ab0178"
+  version "0.1.18"
+  sha256 "8a6fbfe641a5dbf217f4eed2e099c472c2152e4156591b3618b3286e9f7cef4b"
 
   url "https://github.com/jermad14/homebrew-tap/releases/download/jmeeting-v#{version}/jmeeting_#{version}_aarch64.dmg"
   
